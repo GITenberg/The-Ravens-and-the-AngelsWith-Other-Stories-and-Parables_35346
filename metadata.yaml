@@ -1,0 +1,41 @@
+_repo: The-Ravens-and-the-AngelsWith-Other-Stories-and-Parables_35346
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35346-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Charles, Elizabeth Rundle
+    alias: Charles, Elisabeth Rundle
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '25999'
+    url: http://www.gutenberg.org/2009/agents/25999
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Charles
+description: ''
+gutenberg_issued: '2011-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+tableOfContents: 'The ravens and the angels -- Ecce homo: a story of the year of our
+  Lord one thousand -- The cottage by the cathedral -- The unknown architect of the
+  minster: a legend, not of Cologne -- Only the crypt -- The sepulchre and the shrine
+  -- The cathedral chimes: a legend -- The ruined temple -- The clock-bell and the
+  alarm-bell -- The black ship -- The island and the main land: a sequel to "The black
+  ship" -- The jewel of the Order of the King''s Own -- The acorn -- Passages from
+  the life of a fern -- Thorns and spines -- Parables in household things -- "Things
+  using us" -- Sunshine, daylight, and the rock -- Wanderers and pilgrims -- The ark
+  and the fortress -- The three dreams -- Thou and I -- What makes things musical?
+  -- The song without words: leaves from a very old book.'
+title: The Ravens and the Angels, with Other Stories and Parables
+url: http://www.gutenberg.org/ebooks/35346
